@@ -10,6 +10,6 @@ int main(){
     b.push_back(3);
     b.push_back(3);
     b.push_back(3);
-    b.push_back(3);
-    cout<<b[3]<<endl;
+    b.push_back(2);
+    cout<<b.Capacity()<<endl;
 }
